@@ -3,10 +3,10 @@ Reliable UDP file transfer protocol implemented on top of DatagramSocket API in 
 
 Created by Chen Jin and Anthony Siprak. 
 
-##Installation
+## Installation
 Sender and receiver can be compiled using ```javac *.java```
 
-##Features and User Commands
+## Features and User Commands
 Sender has a GUI implemented in Java Swing featuring receiver IP input, sender UDP port input, receiver UDP port input. GUI also features reliable and simulated unreliable toggle.
 
 Receiver is a command line application accepting sender IP, receiver UDP port, sender UDP, port, and transfer destination as arguments. 
